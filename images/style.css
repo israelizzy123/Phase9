@@ -95,32 +95,3 @@ body {
 	justify-content: center;
 	display:flex;
 }
-.rotate{
- -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(180deg);
-	  
-}
-.rotate2{
- -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(180deg);
-}
-.rotate3{
- -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(180deg);
-	
-}
-.opaque{
-opacity:0.5;
-}
-.hide{
-	display:none;
-}
